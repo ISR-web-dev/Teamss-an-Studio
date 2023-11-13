@@ -791,3 +791,7 @@ button:focus:not(:focus-visible) {
     margin-right: auto;
   }
 }
+.log-name {
+  font-size: 30px;
+}
+
